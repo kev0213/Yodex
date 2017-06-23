@@ -1,1 +1,1 @@
-# Yodex
+# StudyGroup
